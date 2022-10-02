@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'parezco.000webhostapp.com';
+$email_from = 'https://jobanlaspinyas.github.io/super/';
 
 $email_subject = 'New Form Submission';
 
